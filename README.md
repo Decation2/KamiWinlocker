@@ -1,0 +1,2 @@
+# KamiRansomware
+Kami Ransomware 
